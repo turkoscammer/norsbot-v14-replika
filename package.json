@@ -1,0 +1,23 @@
+{
+  "name": "norsxd",
+  "version": "4.0.0",
+  "description": "turkoscammer tarafından.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "turkoscammer",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.5",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
